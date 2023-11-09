@@ -1,0 +1,6 @@
+word1 = str(input("word1 = "))
+word2 = str(input("word2 = "))
+word3 = str(input("word3 = "))
+word4 = str(input("word4 = "))
+word5 = str(input("word5 = "))
+print(word1, word2, word3, word4, word5, ".")
